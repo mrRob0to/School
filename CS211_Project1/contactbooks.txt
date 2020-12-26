@@ -1,0 +1,18 @@
+Joe|Chang
+Jason|Smith|7189937698|Jsmith@gmail.com|123-89|Random St.|3B|Flushing|NY|11355
+Anthony|Newman|1231231231|ANEW@live.com|214-35|Hillcrest Blvd.|7C|Fresh Meadows|NY|11365
+endofbook|
+
+Adam|West
+Todd|Howard|7189937698|THoward@outlook.com|123-89|Random St.|1A|Flushing|NY|11355
+Bubba|Don|7189937698|BD3223@outlook.com|123-89|Random St.|4C|Flushing|NY|11355
+endofbook|
+
+Tony|Stark
+Nancy|Drew|2123347690|NDrew@outlook.com|525-39|Francis Lewis Blvd.|3B|Fresh Meadows|NY|11365
+endofbook|
+
+Alan|Webster
+Jane|Doe|2123347690|JDoe@gmail.com|525-39|Francis Lewis Blvd.|3B|Fresh Meadows|NY|11365
+endofbook|
+
