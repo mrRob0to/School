@@ -1,0 +1,56 @@
+^Key type:
+^Key:
+^Kex Algorithms:
+^Server Host Key Algorithms:
+^Encryption Algorithms:
+^MAC Algorithms:
+^Compression Algorithms:
+^Fingerprint:
+ssh*
+rsa*
+aes*
+diffie*
+hmac*
+none
+ecd*
+curve*
+two*
+3des*
+arc*
+blowfish*
+cast*
+arc*
+zlib*
+^#
+*<<*
+^}
+*text-align*
+*padding*
+^html
+^height
+^x-
+X-
+*width*
+^Via
+*--*
+*::*
+*//*
+pre*
+^Protcol mismatch
+p{
+p {
+*settings*
+hr {*
+body*
+ *img {
+ *h1
+ *h2
+ *.content*
+a{
+Accident
+*Adapted*
+ * contributions from numerous individuals and*
+ *server after it has been installed. If you can read this*
+ *Stylesheet for Squid Error pages*
+ * Please see the COPYING and CONTRIBUTORS files for*
+"
